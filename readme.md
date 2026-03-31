@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Anmol Tiwari
-**Roll Number:** 24BCE11059
+**Name:** Garvit Olaniya
+**Roll Number:** 24BAI10070
 
 ---
 ##  Chosen Software
